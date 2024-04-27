@@ -7,7 +7,7 @@ function AboutPage() {
       <h1>About Us</h1>
       <h3>Team Members</h3>
       <Card
-        title="1.Archit Sovale"
+        title="1.Yash Verma"
         image=""
         description="IIT2023225"
       />
